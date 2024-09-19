@@ -1,10 +1,10 @@
 :root{
     --background:#ffffff;
-    --foreground:#6e07f3;
+    --foreground: #5be8b9;
     --primary:#141c3a;
-    --primary-light:#cdd3ed;
+    --primary-light:#6e07f3;
     --primary-foreground:#ffffff;
-    --secondary:#5be8b9;
+    --secondary:#6e07f3;
     --secondary-foreground:#141c3a;
 }
 *{
